@@ -4,4 +4,4 @@
 
 ### Web page URL
 
-[click here](https://ahmed-sl.github.io/JavaScript-HW2/)
+[click here](https://ahmed-sl.github.io/wether-web-/)
